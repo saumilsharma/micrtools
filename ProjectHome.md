@@ -1,0 +1,1 @@
+MICR Tools is a java library dedicated to parsing check MICR data, repair of MICR, and other utilities for dealing with various MICR-related data. Check21-specific utilities include scanner character repair and an X9.37 compliant file framework.
